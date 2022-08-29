@@ -1,3 +1,3 @@
 region = "us-east-2"
-label  = "buildcloudnativeapps.com"
+label  = "buildcloudnative"
 app    = "terramino"
